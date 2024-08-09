@@ -12,8 +12,11 @@ The dataset encompasses a wide range of features, including 'Postal Code', 'Mode
 # Recommendations
 Based on our analysis and conclusions, we propose the following measures for electric car advocacy groups to promote widespread use of electric vehicles:
 Urban Focus: Concentrate efforts on promoting the use of electric vehicles in urban areas, where there are more EVs and the impact on lowering emissions and congestion can be greater.
+
 Collaboration with Electric Utility Companies: Work with electric utility companies to guarantee that charging infrastructure is in place and to promote the use of renewable energy sources to power electric vehicles, which aligns with sustainability objectives.
+
 Public Charging Station Advocacy: Promote the establishment of more public charging stations to alleviate range anxiety and improve the convenience of owning an electric vehicle.
+
 Focused Marketing and Incentive Promotion: Use the data gained from the make, model, and pricing study to create focused marketing campaigns and raise awareness of clean alternative fuel vehicle incentives in locations with low adoption rates.
 
 
